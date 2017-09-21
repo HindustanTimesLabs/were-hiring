@@ -2,6 +2,7 @@ d3.csv("data/projects.csv", function(error, data){
 	if (error) throw error;
 
 	// shuffle it
+	data = jz.arr.shuffle(data);
 
 	data.forEach(function(project){
 
