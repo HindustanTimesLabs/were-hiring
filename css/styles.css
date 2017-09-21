@@ -1,0 +1,52 @@
+.copy ul {
+	margin-bottom: 30px;
+	padding-left: 0px;
+}
+.copy ul li {
+	margin-bottom: 20px;
+  list-style: none;
+}
+.copy .small-caps {
+	text-transform: uppercase;
+	font-size: .85em;
+	margin-right: 10px;
+	font-style: italic;
+}
+.copy .subhead {
+	font-size: 1.2em;
+	font-weight: bold;
+	font-family: "Open Sans", sans-serif;
+	margin-top: 40px;
+}
+
+.projects-wrapper .project {
+	display: inline-block;
+	width: 25%;
+}
+.projects-wrapper .project .project-title {
+	text-align: center;
+	margin-bottom: 5px;
+}
+.projects-wrapper .project img {
+	width: 100%;
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 320px) {
+}
