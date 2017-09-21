@@ -21,11 +21,35 @@
 
 .projects-wrapper .project {
 	display: inline-block;
-	width: 25%;
+	width: 23%;
+	margin: 1%;
+	height: 200px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  vertical-align: top;
+  cursor: pointer;
 }
+
+.projects-wrapper .project:hover .project-title {
+
+	opacity: 1;
+}
+
 .projects-wrapper .project .project-title {
+
+	opacity: 0;
 	text-align: center;
-	margin-bottom: 5px;
+	position: absolute;
+  width: 22%;
+  margin: 0 auto;
+  margin-bottom: 5px;
+  margin-top: 10px;
+  color: #000;
+  text-shadow: 1px 1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, -1px -1px 0 #fff;
+  transition: opacity 1s;
+  cursor: pointer;
+  font-weight: bold;
 }
 .projects-wrapper .project img {
 	width: 100%;
