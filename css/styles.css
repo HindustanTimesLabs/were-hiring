@@ -110,6 +110,12 @@
 	.projects-wrapper .project .project-title {
     opacity: 1;
 	}
+  .titles-wrapper .headline {
+    font-size: 2.8em;
+  }
+  .social-shares .social {
+    width: 19%;
+  }
 }
 
 /* Custom, iPhone Retina */
