@@ -4,11 +4,11 @@ body {
   color: #3a403d;
 }
 a {
-  color: #40a3d3;
+  color: #48a2d7;
   text-decoration: none;
 }
 a:hover, a:focus {
-  color: #218ccc;
+  color: #2880b9;
 }
 
 /*NAVBAR*/
