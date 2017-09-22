@@ -1,12 +1,11 @@
 // meta tags
-var twitterStatus = '';
-var hashtags = '';
+var twitterStatus = 'The @htTweets news apps and interactives team is hiring. Apply here.';
+var hashtags = 'dataviz,datajournalism';
 
 $(document).ready(function(){
   // calc breakpoint
   function calcBreak(x){
-    x < 480 ? y = 'sm' : y = 'md';
-    return y;
+    return x <= 480 ? "sm" : "md";
   }
   var breakpoint = calcBreak($(window).width());
   $(window).resize(function(){
@@ -16,9 +15,9 @@ $(document).ready(function(){
   // mobile logo
   function mobileLogo(x) {
     if (x == "sm") {
-      $('.navbar-brand img').attr('src', 'img/mobile-logo.png');
+      $('.navbar-logo img').attr('src', 'img/mobile-logo.png');
     } else {
-      $('.navbar-brand img').attr('src', 'img/logo.png');
+      $('.navbar-logo img').attr('src', 'img/logo.png');
     }
   }
 
