@@ -12,11 +12,11 @@ We are journalists, data scientists, visualisation designers, and web developers
 
 ### You should have a very particular set of skills.
 
-- _JOURNALISM_ Experience working as a professional reporter, publishing stories regularly, and juggling daily reporting with long-term feature and enterprise work.
-- _DATA GATHERING_ Web scraping, public records requests, Tabula, etc.
-- _DATA ANALYSIS_ R, Python, Excel, OpenRefine, knowledge of statistics, etc.
-- _DATA VISUALISATON_ Creating charts and maps, preferably interactive ones with Javascript and related libraries like D3.js and TopoJSON, but also static ones with tools like Adobe Illustrator, ai2html and QGIS.
-- _WEB DEVELOPMENT AND DESIGN_ HTML, CSS, Javascript and related libraries like jQuery.
+- _JOURNALISM_ – Experience working as a professional reporter, publishing stories regularly, and juggling daily reporting with long-term feature and enterprise work.
+- _DATA GATHERING_ – Web scraping, public records requests, Tabula, etc.
+- _DATA ANALYSIS_ – R, Python, Excel, OpenRefine, knowledge of statistics, etc.
+- _DATA VISUALISATON_ – Creating charts and maps, preferably interactive ones with Javascript and related libraries like D3.js and TopoJSON, but also static ones with tools like Adobe Illustrator, ai2html and QGIS.
+- _WEB DEVELOPMENT AND DESIGN_ – HTML, CSS, Javascript and related libraries like jQuery.
 
 You don’t have to be able to do all five of these things, but you should be great at at least two of these things and have a strong desire to learn the rest. We improve with every project, and we’re always helping each other get better. It's a lot of fun.
 
